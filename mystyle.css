@@ -14,9 +14,26 @@ img{
 
 .bright{
 	color: red;
-	background-color: yellow;
+	background-color: blue;
 }
 
 .border{
 	border: 25px solid black;
+}
+
+.noBorder{
+	border: 1px solid black;
+}
+
+.red{
+	color: blue;
+	background-color: red;
+}
+
+#freaky{
+	display:none;
+}
+
+.coolBorder{
+	border: 100px solid yellow;
 }
